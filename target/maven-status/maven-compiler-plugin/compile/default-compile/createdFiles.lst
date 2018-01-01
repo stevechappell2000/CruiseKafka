@@ -1,0 +1,5 @@
+com\cruise\plugin\CruiseQconsumer.class
+com\cruise\plugin\CruiseQproducer.class
+com\cruise\plugin\CruiseProducerConfig.class
+com\cruise\plugin\CruiseQpool.class
+com\cruise\plugin\CruiseKafka.class
